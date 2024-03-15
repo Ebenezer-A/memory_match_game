@@ -1,3 +1,3 @@
 # memory_match_game
 
-A flutter app with amplify
+A flutter memory match game app with amplify auth and api
